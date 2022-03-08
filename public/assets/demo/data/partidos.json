@@ -1,0 +1,17 @@
+{
+    "data": [
+        {"id": "1000","nome": "Movimento Democrático Brasileiro","sigla": "MDB"},
+        {"id": "1001","nome": "Partido dos Trabalhadores","sigla": "PT"},
+        {"id": "1002","nome": "Partido da Social Democracia Brasileira","sigla": "PSDB"},
+        {"id": "1003","nome": "Progressistas","sigla": "PP"},
+        {"id": "1004","nome": "Partido Novo","sigla": "NOVO"},
+        {"id": "1005","nome": "Partido Democrático Trabalhista","sigla": "PDT"},
+        {"id": "1006","nome": "Democratas","sigla": "DEM"},
+        {"id": "1007","nome": "Partido Liberal","sigla": "PL"},
+        {"id": "1008","nome": "Partido Socialista Brasileiro","sigla": "PSB"},
+        {"id": "1009","nome": "Partido Comunista do Brasil","sigla": "PCdoB"},
+        {"id": "1010","nome": "Partido Verde","sigla": "PV"},
+        {"id": "1011","nome": "Partido Socialismo e Liberdade","sigla": "PSOL"},
+        {"id": "1012","nome": "Partido Social Liberal","sigla": "PSL"}
+    ]
+}
